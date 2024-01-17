@@ -4,43 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec8fb81c-3506-493d-94cd-e725535738a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/internships.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AWSBC7-GR-2/2-main-deneme.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AWSBC7-GR-2/HamburgRentFlatRadius50km.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AWSBC7-GR-2/RENTAL-DATA.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AWSBC7-GR-2/awcbc7-gr-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AWSBC7-GR-2/rental-home-price-prediction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Car-Price-Prediction-with-Streamlit/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Car-Price-Prediction-with-Streamlit/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Car-Price-Prediction-with-Streamlit/new_car_file3.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Car-Price-Prediction-with-Streamlit/price_pred.joblib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car price flask/DEĞİŞKENLER.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car price flask/DEĞİŞKENLER.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car price flask/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car price flask/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car price flask/new_car_file3.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/car price flask/price_pred.joblib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deneme/2_HW_ismail_sgt_Telco.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deneme/DENEME.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deneme/HOUSE_PRICE_PREDICTON_SOLUTION.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deneme/carpred.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deneme/diabetes_research.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deneme/feature_engineering.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deneme/linear_regression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deneme/logistic_regression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intern-british/BA_reviews.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intern-british/British_Airways_Task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intern-british/HW_1_Wikimedia_ismail_sgt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intern-british/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intern-british/nlp.py" afterDir="false" />
+    <list default="true" id="ec8fb81c-3506-493d-94cd-e725535738a1" name="Changes" comment="new app">
+      <change afterPath="$PROJECT_DIR$/new_car_file3.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/internships.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/internships.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Car-Price-Prediction-with-Streamlit/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Car-Price-Prediction-with-Streamlit/new_car_file3.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Car-Price-Prediction-with-Streamlit/price_pred.joblib" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,21 +25,30 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="origin" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2WtTzoAH7H06s6hRRgZw4MtqtwK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -88,6 +67,30 @@
       <option name="presentableId" value="Default" />
       <updated>1697551141632</updated>
     </task>
+    <task id="LOCAL-00001" summary="new app">
+      <created>1705467421935</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705467421935</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="new app" />
+    <option name="LAST_COMMIT_MESSAGE" value="new app" />
   </component>
 </project>
